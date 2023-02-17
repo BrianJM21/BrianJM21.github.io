@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Portafolio
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A continuación, un resumen de mi portafolio personal de proyectos y aplicaciones. Para una revisión detallada, remitirse a la pestaña de Repositorios.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [Aplicaciones iOS]
 horizontal: false
 ---
 
