@@ -1,0 +1,79 @@
+- title: Información General
+  type: map
+  contents:
+    - name: Nombre
+      value: Brian Jiménez Moedano
+    - name: Fecha de Nacimiento
+      value: 21 de Diciembre de 1991
+    - name: Idiomas
+      value: Español (nativo),  Inglés (intermedio/avanzado)
+
+- title: Educación
+  type: time_table
+  contents:
+    - title: Ingeniería Eléctrica Electrónica
+      institution: Universidad Nacional Autónoma de México, Facultad de Ingeniería, Ciudad de México
+      year: 2015
+      description:
+        - Especialización en Control y Automatización.
+        - Graduado con Mención Honorífica.
+    - title: Desarrollador iOS
+      institution: Certificación profesional.
+      year: 2022
+      description:
+        - Codecademy - iOS Development Career Path (e-learning).
+        - OGUM - Academia iOS (taller presencial).
+
+- title: Experiencia
+  type: time_table
+  contents:
+    - title: Desarrollador de Sistemas Informáticos
+      institution: Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas
+      year: 2015 - 2022
+      description:
+        - Levantamiento de requerimientos para análisis y propuesta de solución.
+        - Diseñar y construir la solución informática.
+        - Efectuar pruebas y liberar solución.
+        - Capacitar y asesorar en el uso y operación de los sistemas informáticos.
+        - Elaborar documentación de los requerimientos.
+        
+    - title: Tesista
+      institution: Instituto Nacional de Psiquiatría “Ramón de la Fuente Muñiz”
+      year: 2014 - 2015
+      description:
+        - Montaje de un sistema de adquisición de imágenes digitales de microscopía de fluorescencia y desarrollo del software de control.
+        - Instalación, diagnóstico y soporte técnico a equipo especializado de laboratorio.
+
+    - title: Becario
+      institution: FLOPAC Instrumentación y Automatización
+      year: 2014
+      description:
+        - Desarrollo de instrumentos virtuales para uso industrial y académico.
+        - Asistente en tareas de montaje y ensamblaje de equipo industrial y trabajos de campo.
+
+- title: Lenguajes de Programación y Frameworks
+  type: nested_list
+  contents:
+    - title: Swift
+      items:
+        - XCode
+        - UIKit
+        - CoreData
+        - FireBase
+        - SQLite
+        - Combine
+        - Consumo de API's (Concurrencia)
+        - Arquitecturas MVC, MVVM, VIPER.
+    - title: Git y GitHub
+    - title: Metodología de trabajo SCRUM
+    - title: ProIV
+    - title: LabVIEW
+    - title: Arduino
+
+- title: Áreas de Interés
+  type: list
+  contents:
+    - Desarrollo de aplicaciones nativas iOS.
+    - Desarrollo UI/UX.
+    - Soporte técnico y capacitación.
+    - Administración de base de datos.
