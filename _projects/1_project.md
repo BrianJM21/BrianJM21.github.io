@@ -21,7 +21,7 @@ category: Aplicaciones iOS
     </div>
 </div>
 <div class="caption">
-    <b>Izquierda:</b> <i>Pantalla de Inicio.</i>   <b>Centro:</b> <i>Pantalla del Juego.</i>    <b>Derecha:</b> <i>Pantalla de Puntaje Final.</i>
+    <b>Izquierda:</b> <i>Pantalla de Inicio.</i>    <b>Centro:</b> <i>Pantalla del Juego.</i>.   <b>Derecha:</b> <i>Pantalla de Puntaje Final.</i>
 </div>
 
 ## Características
