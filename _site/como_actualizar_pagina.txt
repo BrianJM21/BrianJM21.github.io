@@ -1,0 +1,17 @@
+1. Desde el directorio local de la PáginaGitHub, se hacen las actualizaciones necesarias en los archivos correspondientes.
+
+2. Desde la Terminal, nos ubicamos en el directorio local de la PáginaGitHub, y se prueban los cambios con el comando: bundle exec jekyll serve
+
+3. Cuando los cambios estén listos, se hace un Add, luego un Commit, y finalmente se hace un Push al repositorio remoto (GitHub).
+
+4. Se hace un BackUp temporal del contenido del directorio local de la PáginaGitHub.
+
+5. Se hace el Deploy desde la Terminal con el comando: bin/deploy --user
+
+6. Desde la página de GitHub se completa el PullRequest generado con el comando de Deploy, al terminar, se elimina la rama que se creo (gh-pages) para hacer el Deploy.
+
+7. Se eliminan las ramas que se crearon durante el Deploy (gh-pages y master)
+
+8. Se visita la página desde el navegador web para verificar que los cambios se hayan hecho correctamente.
+
+9. Finalmente desde la rama main, se borra el contenido total del directorio local y se copia el contenido desde el BackUp temporal o, en caso de no tenerlo, desde el commit remoto que subimos antes de correr la instrucción de Deploy, esto para dejarlo limpio y listo para futuras actualizaciones.
